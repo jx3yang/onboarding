@@ -43,6 +43,6 @@ These experiments are run under the Colab default setting(T4).
 
 + [PyGaggle: Baselines on MS MARCO Document Retrieval](https://github.com/castorini/pygaggle/blob/master/docs/experiments-msmarco-document.md): It takes about 4 hours to re-rank each half subset.
 
-+ [PyGaggle: Neural Ranking Baselines on MS MARCO Passage Retrieval](https://github.com/castorini/pygaggle/blob/master/docs/experiments-msmarco-passage.md):
++ [PyGaggle: Neural Ranking Baselines on MS MARCO Passage Retrieval Subset](https://github.com/castorini/pygaggle/blob/master/docs/experiments-msmarco-passage-subset.md):
   + Re-Ranking with monoBERT: It takes about 50 mins to re-rank.
-  + Re-Ranking with monoT5: It takes about 40 mins to re-rank.
+  + Re-Ranking with monoT5: It takes about 20 mins to re-rank.
